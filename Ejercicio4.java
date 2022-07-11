@@ -1,6 +1,6 @@
 package com.generation;
 
-public class Codigo1 {
+public class Codigo4 {
 
     Scanner s = new Scanner();
     
